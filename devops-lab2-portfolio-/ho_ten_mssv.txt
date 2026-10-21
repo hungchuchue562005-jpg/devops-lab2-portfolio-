@@ -1,0 +1,4 @@
+Họ tên: [CHƯA CUNG CẤP — điền trước khi nộp]
+MSSV: [CHƯA CUNG CẤP — điền trước khi nộp]
+Bài: Lab 2 — Thiết lập Môi trường DevOps & Áp dụng Nguyên tắc CALMS
+Ngày thực hiện: 15/10/2026

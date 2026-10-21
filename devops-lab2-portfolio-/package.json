@@ -1,0 +1,24 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "- **Bài 2 — DevOps và các Nguyên tắc Cốt lõi**  - **CDR:** 2.1 (Khái niệm DevOps) + 2.2 (Nguyên tắc cốt lõi) + 2.3 (Công cụ DevOps) - **Mức Bloom:** Hiểu + Vận dụng cơ bản - **Thời lượng:** 75 phút - **Hình thức:** Sinh viên tự thực hành theo hướng dẫn",
+  "homepage": "https://github.com/hungchuchue562005-jpg/devops-lab2-portfolio-#readme",
+  "bugs": {
+    "url": "https://github.com/hungchuchue562005-jpg/devops-lab2-portfolio-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungchuchue562005-jpg/devops-lab2-portfolio-.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
